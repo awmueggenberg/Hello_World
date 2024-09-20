@@ -1,4 +1,4 @@
-# Hello_World
+## Hello_World
 print("This is my first repository!")
 question = intput("Is this your first repository?")
 if question = "yes":
@@ -6,4 +6,4 @@ if question = "yes":
 else: 
   print("I knew you were expierenced!")
 
-*Bold*
+*Bold
