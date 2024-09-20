@@ -6,7 +6,7 @@ if question = "yes":
 else: 
   print("I knew you were expierenced!")
   
-##Table of Contents
+## Table of Contents
 - [Projects](#Projects)
 - [Descriptions](#Descriptions)
 - [Files Used](#Files-Used)
@@ -14,17 +14,18 @@ else:
 - [Versioning](#Versioning)
 
 
-##Projects
+## Projects
 "Hello_World"
-##Descriptions
 
-##How to Run Program
+## Descriptions
 
-##Files Used
+## How to Run Program
 
-##Additional Documentation
+## Files Used
 
-##Versioning
+## Additional Documentation
+
+## Versioning
 
 *This is in Italics*
 
