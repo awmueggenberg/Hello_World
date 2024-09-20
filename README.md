@@ -18,12 +18,13 @@ else:
 "Hello_World"
 
 ## Descriptions
-
+My programs will be uploaded here on this page. My first  upload will be my very first Python Project ever. 
 ## How to Run Program
 
 ## Files Used
 
 ## Additional Documentation
+No additional documentation at this time. Here is some BOLD text
 
 ## Versioning
 
